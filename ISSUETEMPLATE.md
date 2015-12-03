@@ -1,8 +1,6 @@
 **BROWSER / OS:**
 
-
 **SUMMARY:**
-
 
 **STEPS TO REPRODUCE:**
 
@@ -12,15 +10,8 @@
 
 3.
 
-
 **EXPECTED RESULTS:**
-
-
 
 **ACTUAL RESULTS:**
 
-
-
 **SCREENSHOT:**
-
-
